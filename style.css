@@ -3,8 +3,11 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Playfair Display", Sans-serif;
-   
     text-align: center;
+}
+
+body{
+    width: fit-content;
 }
 
 /* navbar */
@@ -173,7 +176,7 @@
     background-color: #E2AF24;
     color: #E2AF24;
     margin-left: 60px;
-    width: 100%;
+    width: 95%;
 }
 .div1 p{
     position: absolute;
